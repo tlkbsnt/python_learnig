@@ -1,2 +1,2 @@
-# python_learnig
+# python_learning
 This is python code develeoper
